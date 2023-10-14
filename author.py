@@ -62,8 +62,3 @@ add_application("App4", "Author3", "3.0", 2022, 60.00)
 
 
 
-# c) Display the details of applications published by a given publisher in a given year.
-display_applications_by_publisher_and_year("Author1", 2020)
-
-# d) Sort the list of applications in the increasing order of two fields, author and publishing year.
-sort_applications_by_author_and_publishing_year()
